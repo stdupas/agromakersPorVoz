@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-10T18:52:59.171Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="1F6uXQPZ_g7dUbZ-kISS" version="12.6.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-10T22:12:37.362Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="A1e_HNgA6wzIyYiJjDn8" version="12.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="875" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="LFKima_Gjq3WjR07UFZ1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LFKima_Gjq3WjR07UFZ1-14" target="LFKima_Gjq3WjR07UFZ1-51">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="LFKima_Gjq3WjR07UFZ1-14" value="el agricultor envío mensaje" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LFKima_Gjq3WjR07UFZ1-14" value="Se recibe mensaje" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="286" width="100" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="LFKima_Gjq3WjR07UFZ1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LFKima_Gjq3WjR07UFZ1-20" target="LFKima_Gjq3WjR07UFZ1-7">
@@ -41,9 +41,6 @@
         </mxCell>
         <mxCell id="LFKima_Gjq3WjR07UFZ1-20" value="El numero recibe mensajes de voz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="425" y="22.5" width="120" height="95" as="geometry"/>
-        </mxCell>
-        <mxCell id="LFKima_Gjq3WjR07UFZ1-25" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="482" y="346" width="30" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="LFKima_Gjq3WjR07UFZ1-26" value="Pasar lista agricultores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="303.5" width="90" height="45" as="geometry"/>
@@ -66,9 +63,6 @@
         <mxCell id="LFKima_Gjq3WjR07UFZ1-37" value="Stephane da a Willmar una tabla de agricultores participantes con sus números telefonicos y un chip del numero que receptione los mensajes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="16" width="135" height="107.5" as="geometry"/>
         </mxCell>
-        <mxCell id="LFKima_Gjq3WjR07UFZ1-40" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="625" y="229" width="30" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="LFKima_Gjq3WjR07UFZ1-41" value="Llenar la base de datos con el texto reconocido del mensaje, el&amp;nbsp; nombre del agricultor, fecha..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="161" width="140" height="60" as="geometry"/>
         </mxCell>
@@ -86,12 +80,6 @@
         </mxCell>
         <mxCell id="LFKima_Gjq3WjR07UFZ1-45" value="Se recibe un mensaje" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="29.75" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="LFKima_Gjq3WjR07UFZ1-49" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="382" y="326" width="30" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="LFKima_Gjq3WjR07UFZ1-50" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="103.5" width="30" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="LFKima_Gjq3WjR07UFZ1-51" value="Agradecer al agricultor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="161" width="120" height="60" as="geometry"/>
