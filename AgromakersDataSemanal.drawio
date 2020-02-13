@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T15:46:19.338Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="twr7Pf6dcoWYKDcBtImV" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T15:47:26.678Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="gRuadrJuTwAX5Ne2Ynpi" version="12.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1458" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -321,150 +321,96 @@
         <mxCell id="ntUJKvOIBmLxlDmZnV4F-118" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Sistema de certificación e investigación agromakers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="272" y="17" width="540" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-54" value="&lt;div&gt;&lt;u&gt;Pregunta inicial &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i=&lt;/u&gt;1)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Buenas tardes es el sistema de certificación partifipativa y apoyo a la decision en agroecologia agromakers hablando. Me podria dar información sobre su finca, municipio M y vereda V, su nombre N y el nombre de la finca F. Desde whatsapp oprima el clip en compartir ubicación U&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40.00000000000023" y="1343" width="120" height="270" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-55" value="&lt;div&gt;&lt;u&gt;Pregunta inicial (i=2) &lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Buenas tardes, Señor(a) Me podría definir los lotes de su finca&amp;nbsp; F, para cada lote el nombre del lote (L) como es el suelo si es arenoso, limoso, arcilloso o una mezcla de dos principales, o de los 3 en proporción similar (S) y las diferentes partes del lote (parte plana, parte humeda, parte en loma, parte seca) (P) como quiere definir las partes, el porcentaje de cada parte en el lote (pp), como es la profundidad del suelo en cada parte (ps)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175.75000000000023" y="1343" width="159" height="270" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-56" value="&lt;u&gt;Pregunta inicial (&lt;/u&gt;&lt;u&gt;&lt;u&gt;i=&lt;/u&gt;3) &lt;/u&gt;Cultivos. En el lote L que cultivo tiene (C), y cuanto tiempo lleva cada cultivo (tc) y en que parte del lote esta cada cultivo (pc)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348.12000000000023" y="1343" width="75.75" height="190" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-57" value="&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Pregunta periodica (&lt;/u&gt;&lt;u&gt;&lt;u&gt;i=&lt;/u&gt;I&lt;sub&gt;max&lt;/sub&gt;=4)&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Describe para cada Cultivo (listar C) de cada lote L (listar L) y parte de lote P (listar P), nombrandoles, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Las observaciones del cultivo : cual es el tamaño aproximado de las matas (germinando, pequeñas, grandes), la abundancia de las malezas (abundantes, escasas o ausentes), la presencia de enfermedades y plagas con su nombre&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Sus tareas culturales semanales siembra, arado, aporque, deshierbe, aplicación de insumos con sus nombres, cosecha.&lt;/div&gt;&lt;div&gt;- En el caso de cosecha, el rendimiento de las cosechas, estado sanitario de la cosecha, tamaño de los productos.&lt;/div&gt;&lt;div&gt;Para su finca&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Las actividades varias, preparación de insumos, agroturismo, mercados, distribuciónes, donde, y si quiere cuánto vendió a cual precio cada producto.&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Las decisiones que tuvierón que tomar y por las cuales un apoyo hubiera podido ser útil&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="438.7500000000002" y="1343" width="327.25" height="270" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-59" value="&lt;div&gt;Infomación necesaria para pasar a :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;i=2 : [F]&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;i=3 : [L]&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;i=4 : [C]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="782.0600000000002" y="1343" width="107.94" height="121.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-60" value="&lt;div&gt;Infomación para necesaria para no volver a preguntar i:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;i=1 : [F, M, V, N, U]&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;i=2 : [L, S, P, pp, ps]&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;i=3 : [tc, pc]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="782.0600000000002" y="1491.5" width="107.94" height="121.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-62" value="&lt;div&gt;&lt;u&gt;Pregunta información faltante &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Buenos días agromaker escribiendo, nos hace falta &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;M: el Municipio de su finca&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;V: la vereda de su finca&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;N: el nombre de su finca&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;U: la ubicación de su finca&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;S: la carcterización delsuelo de&amp;nbsp; su finca&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P: las partes del lote L&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;pp: el porcentage de la parte P en su lote L&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ps: a profundidad del suelo en la parte P de su lote L&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;tc: cuanto tiempo lleva el cultivo C en su lote L de su finca F&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;pc : en que parte del lote esta cada cultivo C de su lote L de su finca F&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="905.0000000000002" y="1343" width="240.06" height="270" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-116" value="Bucla datos faltantes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="526.8000000000002" y="903" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-117" value="Bucla inicial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210.00000000000023" y="903" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-118" value="Bucla periodica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="371.13000000000017" y="903" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-119" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Sistema de certificación e investigación agromakers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="272.0000000000002" y="850" width="540" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-124" value="Wilmar Familia Tierra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="2" width="114" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-125" value="José Daniel UNIANDES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="904.25" y="966.8699999999999" width="114" height="39.13" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-126" value="Stephane IRD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="35.86999999999989" width="114" height="26.38" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-127" value="Responsabilidades" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="901.25" y="860.0000000000001" width="120" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-128" value="&lt;div&gt;constituir la base de datos de lista de telefonos con nombre y geolocalización&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="62.250000000000114" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-129" value="Enviar los mensajes las preguntas llenar la base de datos de fincas y lotes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="213" y="1000" width="114" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-130" value="Ayudar en la traducción de la base cruda " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="213" y="1080" width="114" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-132" value="Enviar los mensajes las preguntas llenar la base de datos de fincas y lotes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374.13" y="1000" width="114" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-133" value="Ayudar en la traducción de la base cruda " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374.13" y="1080" width="114" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-134" value="Enviar los mensajes las preguntas llenar la base de datos de fincas y lotes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="526.8" y="997.81" width="114" height="70" as="geometry"/>
-        </mxCell>
         <mxCell id="ntUJKvOIBmLxlDmZnV4F-119" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Sistema de alerta temprana agromakers&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="271.81" y="1673.67" width="430" height="20" as="geometry"/>
+          <mxGeometry x="269.19" y="843.6700000000001" width="430" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ntUJKvOIBmLxlDmZnV4F-207" value="&lt;div&gt;&lt;u&gt;Pregunta inicial &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i=&lt;/u&gt;1)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Buenas tardes, FEDEPAPA, la UNIANDES, familia de la Tierra y el IRD de Francia estan dearrollando un sistema de alerta temprana de plagas y enfermedades de la papa. &lt;u&gt;ALERTAPAPA Es como un wase para la agricultura&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si usted nos reporta por whatsapp-voz, whatsapp-texto o SMS-texto la información relacionada con enfermedades y plagas en su campo les enviaremos alertas tempranas y consejos personalizados para manejo. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información personal se mantendrá totalmente confidencial. Solo publicarémos mapas de riesgos promedios por zonas en paginas web.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información que se requiere por voz o texto a whatsap :&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- la observación de presencia o la ausencia en su campo de una enfermedad o de una plaga: con las palabras claves &quot;gota&quot; o &quot;cero gota&quot; o el nombre de una otra enfermedad o plaga. Si fue realizada la observación un otro día indicar el día &quot;tal fecha&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- La aplicación de productos y el nombre del producto con las palabras &quot;aplique tal pesticida, plaguicida, fungicida, biopestidica o biofungicida&quot; con el nombre del producto y, si fue un día anterior &quot;tal fecha&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- El estado de desarrollo de la planta, con las palabras &quot;siembre&quot;, &quot;observé la primera floración&quot;, &quot;observé la secunda floración&quot;. &quot;Coseché&quot;, y si fue un día anterior &quot;tal fecha&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nosotros utilizaremos los datos para aprender un modelo de manejo.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si quiere participar en el programa tiene papa sembrada o prepara una siembra nos responde con la fecha de siembre a este número (FS), nos responde por voz o texto whatsapp con su nombre, y, si puede, nos envía la ubicación geográfica de su finca por whatsapp&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="2105.67" width="676" height="360" as="geometry"/>
+        <mxCell id="ntUJKvOIBmLxlDmZnV4F-207" value="&lt;div&gt;&lt;u&gt;Pregunta inicial &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i=&lt;/u&gt;1)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Buenas tardes, FEDEPAPA, la UNIANDES, familia de la Tierra y el IRD de Francia estan dearrollando un sistema de alerta temprana de plagas y enfermedades de la papa. &lt;u&gt;ALERTAPAPA Es como un wase para la agricultura&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si usted nos reporta por whatsapp-voz, whatsapp-texto o SMS-texto la información relacionada con enfermedades y plagas en su campo les enviaremos alertas tempranas y consejos personalizados para manejo. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información personal se mantendrá totalmente confidencial. Solo publicarémos mapas de riesgos promedios por zonas en paginas web.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información que se requiere por voz o texto a whatsap :&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- la observación de presencia o la ausencia en su campo de una enfermedad o de una plaga: con las palabras claves &quot;gota&quot; o &quot;cero gota&quot; o el nombre de una otra enfermedad o plaga. Si fue realizada la observación un otro día indicar el día &quot;tal fecha&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- La aplicación de productos y el nombre del producto con las palabras &quot;aplique tal pesticida, plaguicida, fungicida, biopestidica o biofungicida&quot; con el nombre del producto y, si fue un día anterior &quot;tal fecha&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- El estado de desarrollo de la planta, con las palabras &quot;siembre&quot;, &quot;observé la primera floración&quot;, &quot;observé la secunda floración&quot;. &quot;Coseché&quot;, y si fue un día anterior &quot;tal fecha&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nosotros utilizaremos los datos para aprender un modelo de manejo.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si quiere participar en el programa tiene papa sembrada o prepara una siembra nos responde con la fecha de siembre a este número (FS), nos responde por voz o texto whatsapp con su nombre, y, si puede, nos envía la ubicación geográfica de su finca por whatsapp&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="37.38" y="1275.67" width="676" height="360" as="geometry"/>
         </mxCell>
-        <mxCell id="ntUJKvOIBmLxlDmZnV4F-208" value="&lt;div&gt;&lt;u&gt;Pregunta periódica &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i&amp;lt;10&lt;/u&gt;)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Buenas tardes es el sistema de alerta temprana de plagas y enfermedades de la papa ALERTAPAPA hablando.&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cada vez que observa presencia o la ausencia en su campo de una enfermedad o de una plaga: nos reporta el nombre de la enfermedad o plaga, como por ejemplo &quot;gota&quot; si observó gota o &quot;no hay gota&quot; o &quot;no hubo&quot; si observó que no hubo,  y si fue un día anterior indica la fecha, por ejemplo &quot;el 15 de abril&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cada vez que  aplica productos nos reporta &quot;aplique tal pesticida, plaguicida, fungicida, biopestidica o biofungicida&quot; con el &lt;br&gt;nombre del producto y, si fue un día anterior &quot;tal fecha&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cuando cambia nos reporta el estado de desarrollo de la planta, con las palabras &quot;siembre&quot;, &lt;br&gt;&quot;observé la primera floración&quot;, &quot;observé la secunda floración&quot;. &lt;br&gt;&quot;Coseché&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nosotros les enviaremos alertas y manejo por el mismo medio&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="768.06" y="1889.67" width="370" height="285" as="geometry"/>
+        <mxCell id="ntUJKvOIBmLxlDmZnV4F-208" value="&lt;div&gt;&lt;u&gt;Pregunta periódica &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i&amp;lt;10&lt;/u&gt;)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Buenas tardes es el sistema de alerta temprana de plagas y enfermedades de la papa ALERTAPAPA hablando.&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cada vez que observa presencia o la ausencia en su campo de una enfermedad o de una plaga: nos reporta el nombre de la enfermedad o plaga, como por ejemplo &quot;gota&quot; si observó gota o &quot;no hay gota&quot; o &quot;no hubo&quot; si observó que no hubo,  y si fue un día anterior indica la fecha, por ejemplo &quot;el 15 de abril&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cada vez que  aplica productos nos reporta &quot;aplique tal pesticida, plaguicida, fungicida, biopestidica o biofungicida&quot; con el &lt;br&gt;nombre del producto y, si fue un día anterior &quot;tal fecha&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cuando cambia nos reporta el estado de desarrollo de la planta, con las palabras &quot;siembre&quot;, &lt;br&gt;&quot;observé la primera floración&quot;, &quot;observé la secunda floración&quot;. &lt;br&gt;&quot;Coseché&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nosotros les enviaremos alertas y manejo por el mismo medio&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="765.4399999999999" y="1059.67" width="370" height="285" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-0" value="&lt;div&gt;&lt;u&gt;Pregunta periódica &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i&amp;gt;=10&lt;/u&gt;)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;Buenas tardes es el sistema de alerta papa hablando. Nos podria informar enviando un mensaje a este número sobre la presencia o ausencia de plagas y enfermedades, los productos que aplican y el estado de desarrollo de sus papas?&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Para que puedamos enviarles alertas y manejo por el mismo medio&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="768.0599999999998" y="2195.67" width="370" height="270" as="geometry"/>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-0" value="&lt;div&gt;&lt;u&gt;Pregunta periódica &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i&amp;gt;=10&lt;/u&gt;)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;Buenas tardes es el sistema de alerta papa hablando. Nos podria informar enviando un mensaje a este número sobre la presencia o ausencia de plagas y enfermedades, los productos que aplican y el estado de desarrollo de sus papas?&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Para que puedamos enviarles alertas y manejo por el mismo medio&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765.4399999999998" y="1365.67" width="370" height="270" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-2" value="Enviar pregunta i" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="271.9342857142857" y="1747.92" width="83.16964285714285" height="49" as="geometry"/>
+          <mxGeometry x="269.3142857142857" y="917.9200000000001" width="83.16964285714285" height="49" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-3" value="Recibir mensajes voz o texto en un teléfono dedicado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="398.09" y="1734.67" width="83.17" height="75.5" as="geometry"/>
+          <mxGeometry x="395.46999999999997" y="904.6700000000001" width="83.17" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-2" target="hvtxytPNItjEq5nfnZEM-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="393.22464285714284" y="1822.92" as="sourcePoint"/>
-            <mxPoint x="342.0339285714287" y="1772.42" as="targetPoint"/>
+            <mxPoint x="390.60464285714284" y="992.9200000000001" as="sourcePoint"/>
+            <mxPoint x="339.4139285714287" y="942.4200000000001" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-3" target="hvtxytPNItjEq5nfnZEM-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="471.93" y="1772.92" as="sourcePoint"/>
-            <mxPoint x="494.0600000000001" y="1782.42" as="targetPoint"/>
+            <mxPoint x="469.31" y="942.9200000000001" as="sourcePoint"/>
+            <mxPoint x="491.4400000000001" y="952.4200000000001" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-16" value="Llenar la base de datos con los mensajes crudos el teléfono y el nombre del agricultor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610.4599999999999" y="1734.67" width="125.24" height="75.5" as="geometry"/>
+          <mxGeometry x="607.8399999999999" y="904.6700000000001" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-17" value="recibir la base de datos de fedepapa lista de telefonos con nombre y geolocalización" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="96.81" y="1734.67" width="125.24" height="75.5" as="geometry"/>
+          <mxGeometry x="94.19" y="904.6700000000001" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-18" value="recibir información climática de sensores agromakers e IDEAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="96.81" y="1884.67" width="125.24" height="75.5" as="geometry"/>
+          <mxGeometry x="94.19" y="1054.67" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-19" value="Extraer la información de presencia de plagas estado de la vegetación y manejo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610.96" y="1884.67" width="124.24" height="75.5" as="geometry"/>
+          <mxGeometry x="608.34" y="1054.67" width="124.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-16" target="hvtxytPNItjEq5nfnZEM-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="591.14" y="1814.67" as="sourcePoint"/>
-            <mxPoint x="538.93" y="1782.42" as="targetPoint"/>
+            <mxPoint x="588.52" y="984.6700000000001" as="sourcePoint"/>
+            <mxPoint x="536.31" y="952.4200000000001" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-19" target="hvtxytPNItjEq5nfnZEM-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="501.2600000000001" y="1802.42" as="sourcePoint"/>
-            <mxPoint x="541.93" y="1802.42" as="targetPoint"/>
+            <mxPoint x="498.6400000000001" y="972.4200000000001" as="sourcePoint"/>
+            <mxPoint x="539.31" y="972.4200000000001" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-22" value="Correr modelos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314.95000000000005" y="1884.67" width="125.24" height="75.5" as="geometry"/>
+          <mxGeometry x="312.33000000000004" y="1054.67" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-18" target="hvtxytPNItjEq5nfnZEM-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="531.93" y="1932.42" as="sourcePoint"/>
-            <mxPoint x="450.18999999999994" y="1932.42" as="targetPoint"/>
+            <mxPoint x="529.31" y="1102.42" as="sourcePoint"/>
+            <mxPoint x="447.56999999999994" y="1102.42" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-17" target="hvtxytPNItjEq5nfnZEM-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="541.93" y="1932.42" as="sourcePoint"/>
-            <mxPoint x="460.18999999999994" y="1932.42" as="targetPoint"/>
+            <mxPoint x="539.31" y="1102.42" as="sourcePoint"/>
+            <mxPoint x="457.56999999999994" y="1102.42" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-25" value="Enviar alertas y consejos personalizados a los números que participan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314.95000000000005" y="1999.67" width="125.24" height="75.5" as="geometry"/>
+          <mxGeometry x="312.33000000000004" y="1169.67" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-22" target="hvtxytPNItjEq5nfnZEM-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="531.93" y="1932.42" as="sourcePoint"/>
-            <mxPoint x="450.18999999999994" y="1932.42" as="targetPoint"/>
+            <mxPoint x="529.31" y="1102.42" as="sourcePoint"/>
+            <mxPoint x="447.56999999999994" y="1102.42" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
@@ -472,54 +418,54 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-27" value="&lt;div&gt;Cada semana &lt;br&gt;&lt;/div&gt;&lt;div&gt;i = i + 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="271.8142857142857" y="1824.67" width="83.16964285714285" height="49" as="geometry"/>
+          <mxGeometry x="269.1942857142857" y="994.6700000000001" width="83.16964285714285" height="49" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-2" target="hvtxytPNItjEq5nfnZEM-27">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-30" value="Dar un celular o un con chip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="96.81" y="1974.67" width="125.24" height="75.5" as="geometry"/>
+          <mxGeometry x="94.19" y="1144.67" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-31" value="Fedepapa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="799" y="1705.67" width="114" height="21.87" as="geometry"/>
+          <mxGeometry x="796.38" y="875.6700000000001" width="114" height="21.87" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-35" value="&lt;div&gt;transcribir &lt;br&gt;&lt;/div&gt;&lt;div&gt;voz en el &lt;br&gt;&lt;/div&gt;&lt;div&gt;teléfono&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="1734.67" width="91.78" height="75.5" as="geometry"/>
+          <mxGeometry x="497.38" y="904.6700000000001" width="91.78" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-35" target="hvtxytPNItjEq5nfnZEM-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="501.26" y="1792.42" as="sourcePoint"/>
-            <mxPoint x="621" y="1772.67" as="targetPoint"/>
+            <mxPoint x="498.64" y="962.4200000000001" as="sourcePoint"/>
+            <mxPoint x="618.38" y="942.6700000000001" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-38" value="Wilmar Familia Tierra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="798.75" y="1739.67" width="114" height="30" as="geometry"/>
+          <mxGeometry x="796.13" y="909.6700000000001" width="114" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-39" value="José Daniel UNIANDES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="799" y="1780.54" width="114" height="39.13" as="geometry"/>
+          <mxGeometry x="796.38" y="950.54" width="114" height="39.13" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-41" value="Stephane IRD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="799" y="1833.29" width="114" height="26.38" as="geometry"/>
+          <mxGeometry x="796.38" y="1003.29" width="114" height="26.38" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-44" value="Mapear riesgo en la plataforma Agromakers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="466.5400000000001" y="1999.67" width="125.24" height="75.5" as="geometry"/>
+          <mxGeometry x="463.9200000000001" y="1169.67" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-22" target="hvtxytPNItjEq5nfnZEM-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="387.56999999999994" y="1970.17" as="sourcePoint"/>
-            <mxPoint x="387.56999999999994" y="2009.67" as="targetPoint"/>
+            <mxPoint x="384.94999999999993" y="1140.17" as="sourcePoint"/>
+            <mxPoint x="384.94999999999993" y="1179.67" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-46" value="Responsabilidades" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="796" y="1673.67" width="120" height="20" as="geometry"/>
+          <mxGeometry x="793.38" y="843.6700000000001" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-47" value="pregunta semanal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290.81" y="1716.67" width="40" height="20" as="geometry"/>
+          <mxGeometry x="288.19" y="886.6700000000001" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-49" value="Si una finca no responde después de un més, eliminarla de la lista semanal, pasar a lista bimensual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="406" y="1824.67" width="190" height="49" as="geometry"/>
+          <mxGeometry x="403.38" y="994.6700000000001" width="190" height="49" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-135" value="Dar un celular o un con chip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="37.38" y="10" width="125.24" height="44.75" as="geometry"/>
