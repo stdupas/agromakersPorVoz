@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-13T15:17:07.541Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="8WquaaEkAlY3JlVYGfGg" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T15:19:26.157Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="4gwm12RodAdAJ1swsWej" version="12.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="875" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1458" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -414,11 +414,11 @@
         <mxCell id="hvtxytPNItjEq5nfnZEM-27" value="&lt;div&gt;Cada semana &lt;br&gt;&lt;/div&gt;&lt;div&gt;i = i + 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285.8142857142857" y="1000" width="83.16964285714285" height="49" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-30" value="Dar un celular o un con " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-30" value="Dar un celular o un con chip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110.81" y="1150" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-31" value="Fedepapa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="813" y="876" width="114" height="21.87" as="geometry"/>
+          <mxGeometry x="813" y="881" width="114" height="21.87" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-35" value="&lt;div&gt;transcribir &lt;br&gt;&lt;/div&gt;&lt;div&gt;voz en el &lt;br&gt;&lt;/div&gt;&lt;div&gt;teléfono&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="514" y="910" width="91.78" height="75.5" as="geometry"/>
@@ -430,14 +430,14 @@
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-38" value="Wilmar familia tierra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="812.75" y="910" width="114" height="28.13" as="geometry"/>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-38" value="Wilmar Familia Tierra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="812.75" y="915" width="114" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-39" value="José Daniel UNIANDES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="813" y="950.87" width="114" height="39.13" as="geometry"/>
+          <mxGeometry x="813" y="955.87" width="114" height="39.13" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-41" value="Stephane IRD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="813" y="1003.62" width="114" height="26.38" as="geometry"/>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-41" value="Stephane IRD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="813" y="1008.62" width="114" height="26.38" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-44" value="Mapear riesgo en la plataforma Agromakers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480.5400000000001" y="1175" width="125.24" height="75.5" as="geometry"/>
