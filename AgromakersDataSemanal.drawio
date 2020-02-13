@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T14:49:17.736Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="HUsQfv6g19jp8PYCyaTD" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T15:10:47.003Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="lOkVEt_oRn-b0Uhgifxk" version="12.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="875" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
         <mxCell id="ntUJKvOIBmLxlDmZnV4F-119" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Sistema de alerta temprana agromakers&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="285.81" y="849" width="430" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ntUJKvOIBmLxlDmZnV4F-207" value="&lt;div&gt;&lt;u&gt;Pregunta inicial &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i=&lt;/u&gt;1)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Buenas tardes, FEDEPAPA, la UNIANDES y el IRD de Francia estan dearrollando un sistema de alerta temprana de plagas y enfermedades de la papa. &lt;u&gt;ALERTAPAPA Es como un wase para la agricultura&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si usted nos reporta por whatsapp-voz, whatsapp-texto o SMS-texto la información relacionada con enfermedades y plagas en su campo les enviaremos alertas tempranas y consejos personalizados para manejo. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información personal se mantendrá totalmente confidencial. Solo publicarémos mapas de riesgos promedios por zonas en paginas web.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información que se requiere por voz o texto a whatsap :&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- la observación de presencia o la ausencia en su campo de una enfermedad o de una plaga: con las palabras claves &quot;gota&quot; o &quot;cero gota&quot; o el nombre de una otra enfermedad o plaga. Si fue realizada la observación un otro día indicar el día &quot;tal fecha&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- La aplicación de productos y el nombre del producto con las palabras &quot;aplique tal pesticida, plaguicida, fungicida, biopestidica o biofungicida&quot; con el nombre del producto y, si fue un día anterior &quot;tal fecha&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- El estado de desarrollo de la planta, con las palabras &quot;siembre&quot;, &quot;observé la primera floración&quot;, &quot;observé la secunda floración&quot;. &quot;Coseché&quot;, y si fue un día anterior &quot;tal fecha&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nosotros utilizaremos los datos para aprender un modelo de manejo.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si quiere participar en el programa tiene papa sembrada o prepara una siembra nos responde con la fecha de siembre a este número (FS), nos responde por voz o texto whatsapp con su nombre, y, si puede, nos envía la ubicación geográfica de su finca por whatsapp&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ntUJKvOIBmLxlDmZnV4F-207" value="&lt;div&gt;&lt;u&gt;Pregunta inicial &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i=&lt;/u&gt;1)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Buenas tardes, FEDEPAPA, la UNIANDES, familia de la Tierra y el IRD de Francia estan dearrollando un sistema de alerta temprana de plagas y enfermedades de la papa. &lt;u&gt;ALERTAPAPA Es como un wase para la agricultura&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si usted nos reporta por whatsapp-voz, whatsapp-texto o SMS-texto la información relacionada con enfermedades y plagas en su campo les enviaremos alertas tempranas y consejos personalizados para manejo. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información personal se mantendrá totalmente confidencial. Solo publicarémos mapas de riesgos promedios por zonas en paginas web.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;La información que se requiere por voz o texto a whatsap :&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- la observación de presencia o la ausencia en su campo de una enfermedad o de una plaga: con las palabras claves &quot;gota&quot; o &quot;cero gota&quot; o el nombre de una otra enfermedad o plaga. Si fue realizada la observación un otro día indicar el día &quot;tal fecha&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- La aplicación de productos y el nombre del producto con las palabras &quot;aplique tal pesticida, plaguicida, fungicida, biopestidica o biofungicida&quot; con el nombre del producto y, si fue un día anterior &quot;tal fecha&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- El estado de desarrollo de la planta, con las palabras &quot;siembre&quot;, &quot;observé la primera floración&quot;, &quot;observé la secunda floración&quot;. &quot;Coseché&quot;, y si fue un día anterior &quot;tal fecha&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nosotros utilizaremos los datos para aprender un modelo de manejo.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si quiere participar en el programa tiene papa sembrada o prepara una siembra nos responde con la fecha de siembre a este número (FS), nos responde por voz o texto whatsapp con su nombre, y, si puede, nos envía la ubicación geográfica de su finca por whatsapp&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="54" y="1290" width="676" height="360" as="geometry"/>
         </mxCell>
         <mxCell id="ntUJKvOIBmLxlDmZnV4F-208" value="&lt;div&gt;&lt;u&gt;Pregunta periódica &lt;/u&gt;&lt;u&gt;&lt;u&gt;(i&amp;lt;10&lt;/u&gt;)&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Buenas tardes es el sistema de alerta temprana de plagas y enfermedades de la papa ALERTAPAPA hablando.&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cada vez que observa presencia o la ausencia en su campo de una enfermedad o de una plaga: nos reporta el nombre de la enfermedad o plaga, como &quot;gota&quot; si hay o &quot;no hay gota&quot; si no hay,  y si fue un día anterior &quot;tal fecha&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cada vez que  aplica productos nos reporta &quot;aplique tal pesticida, plaguicida, fungicida, biopestidica o biofungicida&quot; con el &lt;br&gt;nombre del producto y, si fue un día anterior &quot;tal fecha&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cuando cambia nos reporta el estado de desarrollo de la planta, con las palabras &quot;siembre&quot;, &lt;br&gt;&quot;observé la primera floración&quot;, &quot;observé la secunda floración&quot;. &lt;br&gt;&quot;Coseché&quot;.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nosotros les enviaremos alertas y manejo por el mismo medio&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -336,10 +336,10 @@
         <mxCell id="hvtxytPNItjEq5nfnZEM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-2" target="hvtxytPNItjEq5nfnZEM-27">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-2" value="Enviar pregunta i" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-2" value="Enviar pregunta i" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285.9342857142857" y="923.25" width="83.16964285714285" height="49" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-3" value="Recibir mensajes voz texto en un teléfono dedicado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-3" value="Recibir mensajes voz o texto en un teléfono dedicado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="412.09" y="910" width="83.17" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-2" target="hvtxytPNItjEq5nfnZEM-3">
@@ -348,29 +348,29 @@
             <mxPoint x="356.0339285714287" y="947.75" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-3" target="hvtxytPNItjEq5nfnZEM-16">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-3" target="hvtxytPNItjEq5nfnZEM-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="485.93" y="948.25" as="sourcePoint"/>
             <mxPoint x="508.0600000000001" y="957.75" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-16" value="Llenar la base de datos con los mensajes crudos el teléfono y el nombre del agricultor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="535.9300000000001" y="910" width="125.24" height="75.5" as="geometry"/>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-16" value="Llenar la base de datos con los mensajes crudos el teléfono y el nombre del agricultor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="624.4599999999999" y="910" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-17" value="recibir la base de datos de fedepapa lista de telefonos con nombre y geolocalización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-17" value="recibir la base de datos de fedepapa lista de telefonos con nombre y geolocalización" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110.81" y="910" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-18" value="recibir información climática de sensores agromakers e IDEAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-18" value="recibir información climática de sensores agromakers e IDEAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110.81" y="1060" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-19" value="Extraer la información de presencia de plagas estado de la vegetación y manejo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="535.9300000000001" y="1060" width="124.24" height="75.5" as="geometry"/>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-19" value="Extraer la información de presencia de plagas estado de la vegetación y manejo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="624.96" y="1060" width="124.24" height="75.5" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hvtxytPNItjEq5nfnZEM-19">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-16" target="hvtxytPNItjEq5nfnZEM-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="598.14" y="990" as="sourcePoint"/>
-            <mxPoint x="545.93" y="957.75" as="targetPoint"/>
+            <mxPoint x="605.14" y="990" as="sourcePoint"/>
+            <mxPoint x="552.93" y="957.75" as="targetPoint"/>
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
@@ -381,7 +381,7 @@
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-22" value="Correr modelos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-22" value="Correr modelos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="328.95000000000005" y="1060" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-18" target="hvtxytPNItjEq5nfnZEM-22">
@@ -398,7 +398,7 @@
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-25" value="Enviar alertas y consejos personalizados a los números que participan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-25" value="Enviar alertas y consejos personalizados a los números que participan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="328.95000000000005" y="1175" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-22" target="hvtxytPNItjEq5nfnZEM-25">
@@ -411,8 +411,46 @@
         <mxCell id="hvtxytPNItjEq5nfnZEM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-27" target="hvtxytPNItjEq5nfnZEM-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-27" value="&lt;div&gt;Cada semana &lt;br&gt;&lt;/div&gt;&lt;div&gt;i = i + 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-27" value="&lt;div&gt;Cada semana &lt;br&gt;&lt;/div&gt;&lt;div&gt;i = i + 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285.8142857142857" y="1000" width="83.16964285714285" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-30" value="Dar un celular o un con " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110.81" y="1150" width="125.24" height="75.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-31" value="Fedepapa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="813" y="876" width="114" height="21.87" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-35" value="&lt;div&gt;transcribir &lt;br&gt;&lt;/div&gt;&lt;div&gt;voz en el &lt;br&gt;&lt;/div&gt;&lt;div&gt;teléfono&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="514" y="910" width="91.78" height="75.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-35" target="hvtxytPNItjEq5nfnZEM-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515.26" y="967.75" as="sourcePoint"/>
+            <mxPoint x="635" y="948" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-38" value="Wilmar familia tierra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="812.75" y="910" width="114" height="28.13" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-39" value="José Daniel UNIANDES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="813" y="950.87" width="114" height="39.13" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-41" value="Stephane IRD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="813" y="1003.62" width="114" height="26.38" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-44" value="Mapear riesgo en la plataforma Agromakers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480.5400000000001" y="1175" width="125.24" height="75.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-22" target="hvtxytPNItjEq5nfnZEM-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401.56999999999994" y="1145.5" as="sourcePoint"/>
+            <mxPoint x="401.56999999999994" y="1185" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-46" value="Responsabilidades" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="849" width="120" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
