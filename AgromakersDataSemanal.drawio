@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T15:54:12.185Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="rNAH-1VY-zoYCTe0-1VU" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T16:00:19.791Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="TlhhybWaqCedgq9Pz6X1" version="12.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1458" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="hvtxytPNItjEq5nfnZEM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-2" target="hvtxytPNItjEq5nfnZEM-27">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-30" value="Dar un celular o un con chip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-30" value="Proveer un celular con chip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="94.19" y="1144.67" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-31" value="Fedepapa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
