@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T15:47:26.678Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="gRuadrJuTwAX5Ne2Ynpi" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T15:50:35.784Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="umZcKI8CSck88S7B5Pjw" version="12.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1458" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -310,7 +310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ntUJKvOIBmLxlDmZnV4F-114" value="Bucla datos faltantes" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="915" y="70" width="120" height="60" as="geometry"/>
+          <mxGeometry x="890" y="70" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ntUJKvOIBmLxlDmZnV4F-116" value="Bucla inicial" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="70" width="120" height="60" as="geometry"/>
@@ -322,10 +322,10 @@
           <mxGeometry x="272" y="17" width="540" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-124" value="Wilmar Familia Tierra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="2" width="114" height="30" as="geometry"/>
+          <mxGeometry x="1035.94" y="45" width="114" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-126" value="Stephane IRD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="35.86999999999989" width="114" height="26.38" as="geometry"/>
+          <mxGeometry x="1035.94" y="83" width="114" height="22.25" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-128" value="&lt;div&gt;constituir la base de datos de lista de telefonos con nombre y geolocalización&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="62.250000000000114" width="125.24" height="75.5" as="geometry"/>
@@ -427,7 +427,7 @@
           <mxGeometry x="94.19" y="1144.67" width="125.24" height="75.5" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-31" value="Fedepapa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="796.38" y="875.6700000000001" width="114" height="21.87" as="geometry"/>
+          <mxGeometry x="779.03" y="884.5100000000001" width="114" height="21.87" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-35" value="&lt;div&gt;transcribir &lt;br&gt;&lt;/div&gt;&lt;div&gt;voz en el &lt;br&gt;&lt;/div&gt;&lt;div&gt;teléfono&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="497.38" y="904.6700000000001" width="91.78" height="75.5" as="geometry"/>
@@ -440,13 +440,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-38" value="Wilmar Familia Tierra" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="796.13" y="909.6700000000001" width="114" height="30" as="geometry"/>
+          <mxGeometry x="778.78" y="918.5100000000001" width="114" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-39" value="José Daniel UNIANDES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="796.38" y="950.54" width="114" height="39.13" as="geometry"/>
+          <mxGeometry x="779.03" y="959.38" width="114" height="39.13" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-41" value="Stephane IRD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="796.38" y="1003.29" width="114" height="26.38" as="geometry"/>
+          <mxGeometry x="779.03" y="1012.13" width="114" height="26.38" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-44" value="Mapear riesgo en la plataforma Agromakers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="463.9200000000001" y="1169.67" width="125.24" height="75.5" as="geometry"/>
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-46" value="Responsabilidades" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="793.38" y="843.6700000000001" width="120" height="20" as="geometry"/>
+          <mxGeometry x="776.03" y="852.5100000000001" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-47" value="pregunta semanal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.19" y="886.6700000000001" width="40" height="20" as="geometry"/>
@@ -490,6 +490,15 @@
             <mxPoint x="773.2449999999999" y="335" as="sourcePoint"/>
             <mxPoint x="773.2449999999999" y="366" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-144" value="Responsabilidades" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1032.94" y="18.000000000000114" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-146" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1022.47" y="15" width="137.53" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="hvtxytPNItjEq5nfnZEM-147" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="767.47" y="847.34" width="137.53" height="196.33" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
