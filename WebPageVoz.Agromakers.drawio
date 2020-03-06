@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T18:47:16.055Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="opoUXXHz9GFSlfwx8WK4" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T18:47:42.731Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="jnDwJTbYf5Vpw4tv5NQH" version="12.8.1" type="github">
   <diagram id="cFf7Al00toWebNJee5AC" name="Page-1">
     <mxGraphModel dx="1029" dy="-1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rRB9kiorKSMEdPoHpbNI-26" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;Los &lt;b style=&quot;font-size: 11px;&quot;&gt;consumidores&lt;/b&gt; acceden a la huella ecológica de los productos disponibles &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Un sistema de puntos permite recompensar las transacciones con menos huella&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;spacingLeft=64;spacingRight=4;spacingBottom=4;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="rRB9kiorKSMEdPoHpbNI-26" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;Los &lt;b style=&quot;font-size: 11px&quot;&gt;consumidores&lt;/b&gt; acceden a la huella ecológica de los productos disponibles &lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;Un sistema de eco-puntos permite recompensar las transacciones con menos huella&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;spacingLeft=64;spacingRight=4;spacingBottom=4;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="624.49" y="2617.32" width="177.51" height="142.68" as="geometry" />
         </mxCell>
         <mxCell id="hdTwk3scT8ZDicXBFMGy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="rRB9kiorKSMEdPoHpbNI-17" target="rRB9kiorKSMEdPoHpbNI-26" edge="1">
