@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T15:53:52.216Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="5aePWlj2Vvw3P_ED_V00" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T15:54:24.871Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="jWX58AnNMlQYyXmVBP4f" version="12.8.1" type="github">
   <diagram id="cFf7Al00toWebNJee5AC" name="Page-1">
     <mxGraphModel dx="875" dy="-2685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rRB9kiorKSMEdPoHpbNI-26" value="&lt;div&gt;&amp;nbsp;Los &lt;b&gt;consumidores&lt;/b&gt; acceden a la huella ecológica de los productos disponibles &lt;br&gt;&lt;/div&gt;&lt;div&gt;Un sistema de puntaje permite recompensar las transacciones con menos huella&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;spacingLeft=64;spacingRight=4;spacingBottom=4;" parent="1" vertex="1">
+        <mxCell id="rRB9kiorKSMEdPoHpbNI-26" value="&lt;div&gt;&amp;nbsp;Los &lt;b&gt;consumidores&lt;/b&gt; acceden a la huella ecológica de los productos disponibles &lt;br&gt;&lt;/div&gt;&lt;div&gt;Un sistema de puntos permite recompensar las transacciones con menos huella&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;spacingLeft=64;spacingRight=4;spacingBottom=4;" parent="1" vertex="1">
           <mxGeometry x="900" y="3576.67" width="180" height="157.33" as="geometry" />
         </mxCell>
         <mxCell id="rRB9kiorKSMEdPoHpbNI-27" value="El &lt;b&gt;agricultor&lt;/b&gt; vende sus productos de manera personalizada en un(os) local(es) en Bogotá" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;spacingLeft=70;spacingRight=4;" parent="1" vertex="1">
