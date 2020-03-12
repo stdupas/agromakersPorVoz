@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-04T23:01:51.713Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="oxWpGk6c1J0oQF2YZT4P" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-12T15:36:54.971Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="kMCRBu5KABmK_n_s0qRI" version="12.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1144" dy="-164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="-204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -106,7 +106,7 @@
         <mxCell id="hvtxytPNItjEq5nfnZEM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-27" target="hvtxytPNItjEq5nfnZEM-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-27" value="&lt;div&gt;Cada semana &lt;br&gt;&lt;/div&gt;&lt;div&gt;i = i + 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="hvtxytPNItjEq5nfnZEM-27" value="&lt;div&gt;Cada mes&lt;br&gt;&lt;/div&gt;&lt;div&gt;i = i + 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="212.38428571428568" y="998.0000000000001" width="83.16964285714285" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hvtxytPNItjEq5nfnZEM-2" target="hvtxytPNItjEq5nfnZEM-27" edge="1">
@@ -153,8 +153,8 @@
         <mxCell id="hvtxytPNItjEq5nfnZEM-47" value="pregunta semanal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="233.38" y="890.0000000000001" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hvtxytPNItjEq5nfnZEM-49" value="Si una finca no responde después de un més, eliminarla de la lista semanal, pasar a lista bimensual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="346.57" y="998.0000000000001" width="190" height="49" as="geometry" />
+        <mxCell id="hvtxytPNItjEq5nfnZEM-49" value="Si una finca no responde después de tres meses, eliminarla de la lista semanal, pasar a lista bimensual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="346.57" y="998" width="203.43" height="49" as="geometry" />
         </mxCell>
         <mxCell id="hvtxytPNItjEq5nfnZEM-147" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="767.47" y="847.34" width="137.53" height="196.33" as="geometry" />
