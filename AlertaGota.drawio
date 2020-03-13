@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T02:30:26.538Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="zS0wx3lrBhGCPKyWYADQ" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T02:30:38.000Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="-atjxNsKqkg8xQzgiduv" version="12.8.4" type="github">
   <diagram id="ly-h9p3J4wI6eg0vUSye" name="Page-1">
     <mxGraphModel dx="1327" dy="-1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,13 +52,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaXE2SA3M5Hyr2B5dG2n-15" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Mensaje semanal 1 :&amp;nbsp; &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Es el sistema alerta gota el riesgo de gota en su parcela &quot;x&quot; es hoy de : x%, mañana de, ... &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Si quiere mejorar la precisión en la evaluación de &lt;br&gt;riesgo no podría responder si aplicó fungicidas la semana pasada en su &lt;br&gt;parcela &quot;x&quot;?&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(1) &quot;aplique&quot;, el nombre de la parcela, el nombre del pestidica, y el día que aplicó (lunes, martes...)&quot; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(2) &quot;no aplique&quot;, el nombre de la parcela, el nombre del pestidica, y el día que observó (lunes, martes...)&quot;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=8;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="74" y="2850" width="290" height="260" as="geometry" />
+          <mxGeometry x="74" y="2850" width="290" height="280" as="geometry" />
         </mxCell>
         <mxCell id="xaXE2SA3M5Hyr2B5dG2n-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xaXE2SA3M5Hyr2B5dG2n-21" target="xaXE2SA3M5Hyr2B5dG2n-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xaXE2SA3M5Hyr2B5dG2n-21" value="El agricultor responde " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=8;spacing=8;" vertex="1" parent="1">
-          <mxGeometry x="440.00000000000006" y="2942.25" width="83.17" height="75.5" as="geometry" />
+          <mxGeometry x="440.00000000000006" y="2952.25" width="83.17" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="xaXE2SA3M5Hyr2B5dG2n-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mensaje semanal 3:&amp;nbsp; &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Según la información enviada el riesgo de gota en su parcela &quot;x&quot; es hoy de : x%, mañana de, ... &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingRight=8;spacingLeft=8;spacingBottom=8;spacingTop=8;spacing=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="69" y="3180" width="250" height="110" as="geometry" />
