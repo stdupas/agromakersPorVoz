@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-18T16:54:17.308Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="NxEom-UfCJZiy9cqJbw7" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-18T16:54:47.132Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="Qcgfz3lUnaHJfLK-ye86" version="12.8.6" type="github">
   <diagram id="cFf7Al00toWebNJee5AC" name="Page-1">
     <mxGraphModel dx="1115" dy="-1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="21.85" y="2770" width="775" height="410" as="geometry" />
         </mxCell>
         <mxCell id="rRB9kiorKSMEdPoHpbNI-4" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Agromakers : una cooperativa digital para&lt;br&gt;la agroecológia abierta y solidaría&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="88.8920121081832" y="2348.9975" width="500" height="60" as="geometry" />
+          <mxGeometry x="100.8920121081832" y="2343.9975" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5ntY6iTZU7-M-NNiVPCL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;" parent="1" source="rRB9kiorKSMEdPoHpbNI-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -128,7 +128,7 @@
           <mxGeometry x="631.8541239398083" y="2402.3175" width="54.59318462098652" height="39.24038427384476" as="geometry" />
         </mxCell>
         <mxCell id="2nZ1gMgUghZ1dIprOlmj-15" value="Fase 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="549.89" y="2402.32" width="62.43" height="15" as="geometry" />
+          <mxGeometry x="549.89" y="2405.32" width="62.43" height="15" as="geometry" />
         </mxCell>
         <mxCell id="2nZ1gMgUghZ1dIprOlmj-16" value="Fase 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="544.63" y="2718.9500000000003" width="62.43" height="10.88" as="geometry" />
