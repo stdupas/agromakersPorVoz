@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T17:00:46.462Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="OOhbeXBjdY5PKIoVPUSq" version="12.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-19T19:21:39.496Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="ygXNsotzlai5hLNNs08q" version="12.8.6" type="github">
   <diagram id="cFf7Al00toWebNJee5AC" name="Page-1">
     <mxGraphModel dx="1115" dy="-1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,12 @@
           <mxGeometry x="624.49" y="2617.32" width="177.51" height="142.68" as="geometry" />
         </mxCell>
         <mxCell id="hdTwk3scT8ZDicXBFMGy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="rRB9kiorKSMEdPoHpbNI-17" target="rRB9kiorKSMEdPoHpbNI-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="2667" />
+              <mxPoint x="610" y="2689" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rRB9kiorKSMEdPoHpbNI-27" value="El &lt;b style=&quot;font-size: 11px;&quot;&gt;agricultor&lt;/b&gt; vende sus productos de manera personalizada en un(os) local(es) en Bogotá" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;spacingLeft=70;spacingRight=4;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="624.49" y="2372" width="177.51" height="97.58" as="geometry" />
@@ -107,8 +112,8 @@
         <mxCell id="rRB9kiorKSMEdPoHpbNI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="rRB9kiorKSMEdPoHpbNI-17" target="rRB9kiorKSMEdPoHpbNI-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="605" y="2667" />
-              <mxPoint x="605" y="2545" />
+              <mxPoint x="610" y="2667" />
+              <mxPoint x="610" y="2545" />
             </Array>
           </mxGeometry>
         </mxCell>
